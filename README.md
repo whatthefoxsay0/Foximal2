@@ -1,6 +1,9 @@
 # Foximal2
 A Javascript library for big Numbers. Better than Foximal
 
+This library has a max Value of 10^^1.8e308 or 1F1.8e308
+therefore the same as break_eternity.js
+
 This Javascript library is inspired from bignum librarys like:
 * [break_eternity.js](https://github.com/Patashu/break_eternity.js) by Patashu - 10^^1.8e308
 * [ExpantaNum.js](https://github.com/Naruyoko/ExpantaNum.js) by Naruyoko - {10,9e15,1,2}
